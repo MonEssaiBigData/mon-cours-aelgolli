@@ -50,7 +50,7 @@ public class PrimeCollection {
 		// TODO Auto-generated method stub
 		System.out.println("Bonjour");
 		PrimeCollection pc=new PrimeCollection();
-		pc.initRandom(10,2000);
+		pc.initRandom(20,2000);
 		pc.printPrimes();
 		
 
